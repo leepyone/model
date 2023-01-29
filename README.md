@@ -18,10 +18,10 @@ python -u main.py \
 •	tokenizers==0.13.2
 •	ply==3.11
 ## PyTorch implementation of ERRA model 
-main.py is used for train a ERRA model.
-module.py is the construction and details of the model.
-utils.py has functions for processing input files.
-BLUE.py folder contains the tool and a example script of text evaluation.
+- main.py is used for train a ERRA model.
+- module.py is the construction and details of the model.
+- utils.py has functions for processing input files.
+- BLUE.py folder contains the tool and a example script of text evaluation.
 
 
 
