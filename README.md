@@ -9,14 +9,14 @@ python -u main.py \
 --attention_mask >> 1
 --use_retrieval >> 1
 ## Code dependencies
-•	Python== 3.7
-•	PyTorch ==1.12.1
-•	transformers==4.25.1
-•	pandas==1.4.3
-•	mkl-service==2.4.0
-•	nltk==3.7
-•	tokenizers==0.13.2
-•	ply==3.11
+- Python== 3.7
+-	PyTorch ==1.12.1
+-	transformers==4.25.1
+-	pandas==1.4.3
+-	mkl-service==2.4.0
+-	nltk==3.7
+-	tokenizers==0.13.2
+-	ply==3.11
 ## PyTorch implementation of ERRA model 
 - main.py is used for train a ERRA model.
 - module.py is the construction and details of the model.
